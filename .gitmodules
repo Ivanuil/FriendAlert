@@ -1,0 +1,6 @@
+[submodule "FriendAlertBot"]
+	path = FriendAlertBot
+	url = https://github.com/Ivanuil/FriendAlertBot.git
+[submodule "FriendAlertAnalytics"]
+	path = FriendAlertAnalytics
+	url = https://github.com/Ivanuil/FriendAlertAnalytics.git
